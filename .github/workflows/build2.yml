@@ -1,4 +1,4 @@
-name: Build La Persona APK
+La Persona APK
 
 on:
   workflow_dispatch:
